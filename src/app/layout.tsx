@@ -42,6 +42,9 @@ export const metadata: Metadata = {
   icons: {
     icon: '/logo.png',
   },
+  verification: {
+    google: 'ilk8NJanh644Bu-UYB5Vd3sbrEsdIfPmdTZhAieYah4',
+  },
   metadataBase: new URL('https://frkproductions.in'),
 }
 
