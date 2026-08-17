@@ -45,7 +45,7 @@ export default function Navbar() {
           className="flex items-center"
         >
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/logo.png" alt="FRK Productions" className="h-7 w-auto object-contain" />
+          <img src="/Frk_Productions_Community_logo-removebg-preview.png" alt="FRK Productions" className="h-7 w-auto object-contain" />
         </a>
 
         {/* Desktop links */}

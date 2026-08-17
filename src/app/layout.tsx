@@ -40,7 +40,7 @@ export const metadata: Metadata = {
       "India's creative collective for filmmakers, actors, photographers, designers, writers, musicians and storytellers.",
   },
   icons: {
-    icon: '/logo.png',
+    icon: '/Frk_Productions_Community_logo-removebg-preview.png',
   },
   verification: {
     google: 'ilk8NJanh644Bu-UYB5Vd3sbrEsdIfPmdTZhAieYah4',

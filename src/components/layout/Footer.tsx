@@ -9,7 +9,7 @@ export default function Footer() {
           <div>
             <a href="#home" className="inline-block mb-3">
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src="/logo.png" alt="FRK Productions" className="h-10 w-auto object-contain" />
+              <img src="/Frk_Productions_Community_logo-removebg-preview.png" alt="FRK Productions" className="h-10 w-auto object-contain" />
             </a>
             <div className="font-serif italic text-[#c9a84c] text-[18px]">
               Stop Creating Alone.
